@@ -1,0 +1,4 @@
+ports
+-------------
+
+https://stackoverflow.com/questions/49981601/difference-between-targetport-and-port-in-kubernetes-service-definition
